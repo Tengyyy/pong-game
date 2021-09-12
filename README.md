@@ -4,7 +4,7 @@ Simple pong game built using Java Swing
 ## Features
 
 1. Main Menu screen
-  - Pick between single-player and multi-player
+    - Pick between single-player and multi-player
 
 2. Single-player mode
     - 3 difficulty settings
