@@ -747,7 +747,7 @@ public class GamePanel extends JPanel implements Runnable{
 	
 	public void run() {
 		
-		// game loop minecraftist, jooksutab mängu 60 fpsiga vms, väga ei saa aru
+		// game loop minecraftist, jooksutab mängu 120 fpsiga
 				long lastTime = System.nanoTime();
 				double amountOfTicks = 120.0;
 				double ns = 1000000000 / amountOfTicks; // time in nanoseconds between each tick, 1 billion nanoseconds = 1 second
